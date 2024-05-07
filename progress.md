@@ -2,7 +2,7 @@
 
 ## Project Details
 - Start Date: 9.4.24
-- Hours Spent: 27
+- Hours Spent: 42
 - Hours Required: 150
 - Deadline: 6 months (9-10)
 - Expected Finish Time: 2.5 months
@@ -12,5 +12,5 @@
 - Tasks: Learning required frameworks and designing the app architecture
 
 ## Week 3-4:
-- Hours so far: 10
-- Tasks: Implementing the backend with simple functional sign-in and sign-up pages
+- Hours so far: 25
+- Tasks: Implementing the backend with simple functional sign-in and sign-up pages and designing the front end
